@@ -1,5 +1,5 @@
 # Self Control Module for Boxen
-[![Build Status](https://travis-ci.org/tarebyte/puppet-selfcontrol.png?branch=master)](https://travis-ci.org/tarebyte/puppet-selfcontrol)
+[![Build Status](https://travis-ci.org/boxen/puppet-selfcontrol.png?branch=master)](https://travis-ci.org/boxen/puppet-selfcontrol)
 
 Install [Self Control](http://selfcontrolapp.com/) a free Mac application to help you avoid distracting websites.
 
