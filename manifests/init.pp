@@ -3,9 +3,11 @@
 # Examples
 #
 #  include selfcontrol
-class selfcontrol {
+class selfcontrol (
+  $version = '1.5.1'
+){
   package { 'SelfControl':
     provider => 'compressed_app',
-    source   => 'http://downloads.selfcontrolapp.com/SelfControl-1.5.1.zip'
+    source   => "http://downloads.selfcontrolapp.com/SelfControl-${version}.zip"
   }
 }
